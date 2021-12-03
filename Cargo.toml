@@ -50,7 +50,6 @@ default-features = false
 
 [dependencies.zk-paillier]
 git = "https://github.com/KZen-networks/zk-paillier"
-tag = "v0.3.12"
 default-features = false
 
 [dependencies.class_group]
