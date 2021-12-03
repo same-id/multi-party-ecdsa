@@ -44,8 +44,8 @@ git = "https://github.com/KZen-networks/centipede"
 default-features = false
 
 [dependencies.paillier]
+package = "kzen-paillier"
 git = "https://github.com/KZen-networks/rust-paillier"
-tag = "v0.3.10"
 default-features = false
 
 [dependencies.zk-paillier]
